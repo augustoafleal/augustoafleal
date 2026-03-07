@@ -1,4 +1,4 @@
-# Augusto Leal
+# Augusto Antônio Fontanive Leal
 
 AI researcher and data scientist.
 
